@@ -1,44 +1,82 @@
-Privacy Policy  
-----------------
+# Privacy Policy
 
-### Introduction  
-Our privacy policy will help you understand what information we collect at Asani, how Asani uses it, and what choices you have.
-Asani built the Asani Mobile app as a free app. This SERVICE is provided by Asani at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible on our website unless otherwise defined in this Privacy Policy.
+## Introduction  
+This Privacy Policy explains what information we collect at Asani, how we use it, and the choices you have regarding your data.
 
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+Asani built the **Asani Mobile App** as a free application for real-time data and user support. This service is provided by Asani at no cost and is intended for use as-is. By choosing to use our Service, you agree to the collection and use of information in accordance with this Privacy Policy.
 
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+Unless otherwise defined here, terms used in this Privacy Policy have the same meanings as in our [Terms and Conditions](https://asani.io).
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+---
 
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
+## Information We Collect and Use  
+To enhance your experience, we may require you to provide personally identifiable information including, but not limited to:
 
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.
+- Full name  
+- Email address  
+- Gender  
+- Location  
+- Photos (for subscription verification)  
 
-### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
+This information is retained and used to operate, improve, and secure the Service. Specifically, **we collect photo screenshots of your subscription payment screen to verify payments and prevent fraud**, and we collect **location details to facilitate accurate and timely delivery of tankers**.
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
+The app may also integrate third-party services that collect information used to identify you. These third parties are bound by obligations of confidentiality and data protection.
 
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+---
 
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+## Cookies  
+Cookies are small files stored on your device that often serve as anonymous unique identifiers.
 
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
+While **we do not use cookies directly**, the app may use third-party code and libraries that do. You can choose to accept or refuse these cookies. Refusing cookies may limit some functionalities of the Service.
 
-Email: hello@asani.io
+---
+
+## Location Information  
+The app may collect location data from your mobile device. This data is used **exclusively to provide location-based services**, such as delivering water tankers to your location. We do not use this data for any unrelated purposes.
+
+---
+
+## Device Information  
+We may collect non-personally identifiable device information to:
+
+- Improve service performance  
+- Ensure app compatibility  
+- **Prevent fraudulent activity**
+
+We do not collect data that directly identifies individual users unless required for specific features (e.g., payment verification).
+
+---
+
+## Photos for Subscription Verification  
+To protect against fraud, we collect and review screenshots or images of your subscription payment confirmation. This ensures that the services you access are valid and legitimately acquired.
+
+These images are used strictly for internal verification and are stored securely. We do not share them with third parties, unless required by law.
+
+---
+
+## Service Providers  
+We may employ third-party companies and individuals for the following purposes:
+
+- To facilitate our Service  
+- To provide the Service on our behalf  
+- To perform Service-related functions  
+- To help us analyze how our Service is used  
+
+These third parties may have access to your Personal Information solely to perform these tasks and are prohibited from using it for any other purpose.
+
+---
+
+## Security  
+We value your trust and are committed to protecting your personal information. While we use commercially acceptable means to safeguard your data, **no method of internet transmission or electronic storage is 100% secure**. Therefore, we cannot guarantee absolute security.
+
+---
+
+## Changes to This Privacy Policy  
+We may update this Privacy Policy periodically. You are encouraged to review this page regularly for any updates. Any changes will take effect immediately upon posting the updated policy here.
+
+---
+
+## Contact Us  
+If you have any questions or suggestions regarding this Privacy Policy, please contact us:
+
+**Email:** [hello@asani.io](mailto:hello@asani.io)

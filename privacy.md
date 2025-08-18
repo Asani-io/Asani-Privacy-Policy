@@ -3,7 +3,7 @@
 ## Introduction  
 This Privacy Policy explains what information we collect at Asani, how we use it, and the choices you have regarding your data.
 
-Asani built the **Asani Mobile App** as a free application for real-time data and user support. This service is provided by Asani at no cost and is intended for use as-is. By choosing to use our Service, you agree to the collection and use of information in accordance with this Privacy Policy.
+Asani built the **Asani Mobile App** as a free application for real-time data and user support, with optional premium subscription features. By choosing to use our Service, you agree to the collection and use of information in accordance with this Privacy Policy.
 
 Unless otherwise defined here, terms used in this Privacy Policy have the same meanings as in our [Terms and Conditions](https://asani.io).
 
@@ -47,7 +47,19 @@ We do not collect data that directly identifies individual users unless required
 
 ---
 
-## Photos for Subscription Verification  
+## Subscriptions and In-App Purchases (for iOS Only)
+The app offers optional premium features through auto-renewable subscriptions purchased via Apple’s In-App Purchase (IAP) system.
+
+- Billing: Payments are charged to your Apple ID account at confirmation of purchase.
+- Auto-Renewal: Subscriptions automatically renew unless canceled at least 24 hours before the end of the current billing period.
+- Management: You can manage or cancel subscriptions in your Apple ID account settings at any time.
+- Refunds: Refunds are handled directly by Apple and subject to Apple’s policies. We do not process subscription cancellations or refunds ourselves.
+
+We do not collect or store your payment information. Payment transactions are processed securely by Apple.
+
+---
+
+## Photos for Subscription Verification (for Android Only)
 To protect against fraud, we collect and review screenshots or images of your subscription payment confirmation. This ensures that the services you access are valid and legitimately acquired.
 
 These images are used strictly for internal verification and are stored securely. We do not share them with third parties, unless required by law.
@@ -67,7 +79,7 @@ These third parties may have access to your Personal Information solely to perfo
 ---
 
 ## Security  
-We value your trust and are committed to protecting your personal information. While we use commercially acceptable means to safeguard your data, **no method of internet transmission or electronic storage is 100% secure**. Therefore, we cannot guarantee absolute security.
+We value your trust and are committed to protecting your personal information. While we use commercially acceptable means to safeguard your data, no method of internet transmission or electronic storage is 100% secure. Therefore, we cannot guarantee absolute security.
 
 ---
 

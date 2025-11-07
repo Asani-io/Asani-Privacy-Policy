@@ -37,7 +37,7 @@ The app may collect location data from your mobile device. This data is used **e
 ---
 
 ## Device Information  
-We may collect non-personally identifiable device information to:
+We may collect device information to:
 
 - Improve service performance  
 - Ensure app compatibility  

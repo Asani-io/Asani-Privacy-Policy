@@ -32,7 +32,7 @@ While **we do not use cookies directly**, the app may use third-party code and l
 ---
 
 ## Location Information  
-The app may collect location data from your mobile device. This data is used **exclusively to provide location-based services**, such as delivering water tankers to your location, and for isntalling our devices after approval. We do not use this data for any unrelated purposes.
+The app may collect location data from your mobile device. This data is used **exclusively to provide location-based services**, such as delivering water tankers to your location, and for installing our devices after approval. We do not use this data for any unrelated purposes.
 
 ---
 

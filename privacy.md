@@ -14,7 +14,6 @@ To enhance your experience, we may require you to provide personally identifiabl
 
 - Full name  
 - Email address  
-- Gender  
 - Location  
 - Photos (for subscription verification)  
 

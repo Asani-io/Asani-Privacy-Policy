@@ -63,8 +63,7 @@ To protect against fraud, we collect and review screenshots or images of your su
 
 - Billing: Users upload a screenshot or image of their payment confirmation after paying via their banking app or physically at the bank.
 - Auto-Renewal: Subscriptions do not auto-renew on Android. Users need to manually make a payment each subscription period.
-- Management: Users can contact us to manage or update their subscription.
-- Refunds: Users can contact us for refund requests.
+- Management & Refunds: Users can manage, update, or request a refund for their subscription by generating a support ticket directly from the Asani app. Our team will review the request and process it accordingly.
 
 These images are used strictly for internal verification and are stored securely. We do not share them with third parties, unless required by law.
 
